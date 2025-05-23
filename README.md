@@ -50,7 +50,7 @@ Basically:
 - Tailwind = glow up your UI like an Insta filter 💅
 - Add some animations because... dopamine 🐒
 
-### Week 6 – **BUILD THE DAMN THING™️**
+### Week 6 – **BUILD THE DAMN THING **
 - Use APIs to fetch contests (you’re now scraping without scraping the bottom of the barrel 😮‍💨)
 - Display beautifully
 - Add bookmarks 💖
@@ -74,7 +74,7 @@ Basically:
 
 ---
 
-## Final Words From Your Chill Mentor™
+## Final Words From Your Chill Mentor
 
 _“Code breaks sometimes. You cry. You fix it. Then you make a linkedin post about it. That’s life.”_ 😎  
 
