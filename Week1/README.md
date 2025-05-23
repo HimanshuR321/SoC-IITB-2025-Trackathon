@@ -27,7 +27,7 @@ Inside the `week1` folder, you’ll find the following:
 
 ## Guidelines
 
-- This week, focus on **learning without using AI tools** like ChatGPT for writing or debugging code. The goal is to build your foundational thinking skills.
+- For this week, focus on **learning without using AI tools** like ChatGPT for writing or debugging code. The goal is to build your foundational thinking skills.
 - If you’re stuck, rely on:
   - [MDN Web Docs](https://developer.mozilla.org/)
   - [W3Schools](https://www.w3schools.com/)
