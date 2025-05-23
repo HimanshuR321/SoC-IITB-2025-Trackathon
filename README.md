@@ -7,7 +7,7 @@
 
 Imagine you’re on Leetcode, Codeforces, CodeChef...  
 But instead of switching tabs like a caffeinated squirrel 🐿️,  
-you have **ONE app** that pulls all contests into a neat lil’ page 📅  
+you have **ONE app** that pulls all contests into a neat lil’ page 📅 
 + lets you bookmark, + links YouTube solutions (YES, really).  
 
 Basically:
@@ -19,11 +19,11 @@ Basically:
 
 | ⚙️ Area | 💼 Stack |
 |--------|----------|
-| 🧪 Frontend | React, Redux Toolkit, Tailwind CSS, Axios – aka the Marvel Avengers of UI 💅 |
-| 🔮 Backend | Node.js, Express, MongoDB, Mongoose – backend vibes only 🧙‍♂️ |
-| 🔗 APIs | Codeforces, CodeChef, LeetCode, YouTube – free data, baby! |
-| 🚀 DevOps | GitHub, Vercel (Frontend), Render (Backend) – zero rupee deployment 💸 |
-| 🎨 Design | Figma – where UIs go to glow up 💁‍♀️✨ |
+|  Frontend | React, Redux Toolkit, Tailwind CSS, Axios – aka the Marvel Avengers of UI 💅 |
+|  Backend | Node.js, Express, MongoDB, Mongoose – backend vibes only |
+|  APIs | Codeforces, CodeChef, LeetCode, YouTube – free data, baby! |
+|  DevOps | GitHub, Vercel (Frontend), Render (Backend) – zero rupee deployment 💸 |
+|  Design | Figma – where UIs go to glow up 💁‍♀️✨ |
 
 ---
 
@@ -42,7 +42,7 @@ Basically:
 - Build a shopping list app with components so reusable they’re basically Tupperware 🥡
 
 ### Week 4 – **Backend Era Begins 🔥**
-- Set up a server that says “Hello World” and feels proud about it 🤖
+- Set up a server that says “Hello World” and feels proud about it 
 - Connect to MongoDB and feel like a hacker in a movie 🎬
 
 ### Week 5 – **Login Screens & Pretty Things 🎀**
@@ -60,7 +60,7 @@ Basically:
 - Make it work on mobile too 📱
 - Add **Dark Mode** because we’re not savages 👀
 - Auto-fetch YouTube links like a certified YouTube hacker (jk... kinda)
-- Deploy → Show off around your friends 🚀
+- Deploy → Show off around your friends 
 
 ---
 
@@ -74,8 +74,8 @@ Basically:
 
 ---
 
-## 💬 Final Words From Your Chill Mentor™
+## Final Words From Your Chill Mentor™
 
 _“Code breaks sometimes. You cry. You fix it. Then you make a linkedin post about it. That’s life.”_ 😎  
 
-Let’s make something cool together. Welcome to Trackathon fam! 🫂🚀  
+Let’s make something cool together. Welcome to Trackathon fam! 🔥
