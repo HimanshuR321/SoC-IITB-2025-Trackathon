@@ -15,7 +15,7 @@ Basically:
 
 ---
 
-## 🧠 Tech Stack (aka our Infinity Stones 💎)
+##  Tech Stack (aka our Infinity Stones 💎)
 
 | ⚙️ Area | 💼 Stack |
 |--------|----------|
