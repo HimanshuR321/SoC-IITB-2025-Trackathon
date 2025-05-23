@@ -8,7 +8,7 @@ This week, we'll begin with the fundamentals of frontend development — HTML an
 
 Inside the `week1` folder, you’ll find the following:
 
-- `Assignments/`: Contains the final assignment for this week. You’ll need to submit this via the Google Form linked below.
+- `Assignment/`: Contains the final assignment for this week. You’ll need to submit this via the Google Form linked below.
 - `Content/`: Core reading material and examples to help you understand HTML and CSS concepts.
 - `Practice Task (With Solution)/`: A set of hands-on problems along with solutions. Use these to practice what you've learned.
 - `README.md`: (This file) Weekly instructions and important notes.
