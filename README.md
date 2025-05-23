@@ -35,7 +35,7 @@ Basically:
 
 ### Week 2 – **JavaScript Shenanigans ⚡**
 - Understand loops, variables, functions (no Hogwarts, just logic)
-- Make a to-do list: finally something that listens to you 😤
+- Make a GitHub Profile Finder App: finally something that listens to you 😤
 
 ### Week 3 – **React-a-thon 🛠️**
 - Setup React with Vite (fast af boi 🚀)
@@ -60,7 +60,7 @@ Basically:
 - Make it work on mobile too 📱
 - Add **Dark Mode** because we’re not savages 👀
 - Auto-fetch YouTube links like a certified YouTube hacker (jk... kinda)
-- Deploy → Show off → Put link in bio 🚀
+- Deploy → Show off around your friends 🚀
 
 ---
 
