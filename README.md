@@ -23,7 +23,7 @@ Basically:
 |  Backend | Node.js, Express, MongoDB, Mongoose – backend vibes only |
 |  APIs | Codeforces, CodeChef, LeetCode, YouTube – free data, baby! |
 |  DevOps | GitHub, Vercel (Frontend), Render (Backend) – zero rupee deployment 💸 |
-|  Design | Figma – where UIs go to glow up 💁‍♀️✨ |
+|  Design | Figma – where UIs go to glow up ✨ |
 
 ---
 
@@ -54,7 +54,7 @@ Basically:
 - Use APIs to fetch contests (you’re now scraping without scraping the bottom of the barrel 😮‍💨)
 - Display beautifully
 - Add bookmarks 💖
-- Test & fix bugs like a digital exterminator 🐛🔫
+- Test & fix bugs like a digital exterminator 🐛
 
 ### Week 7 (Optional but Goated 🐐)
 - Make it work on mobile too 📱
