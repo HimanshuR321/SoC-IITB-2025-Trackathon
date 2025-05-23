@@ -70,12 +70,12 @@ Basically:
 - A working internet (yep, no Jio excuses)
 - Slight knowledge of HTML/CSS/JS helps, but **zero pressure**
 - MOST IMPORTANT:  
-> _Google things like your crush’s Insta. Relentlessly._ 🔍
+> _Google things. Relentlessly._ 🔍
 
 ---
 
 ## 💬 Final Words From Your Chill Mentor™
 
-_“Code breaks sometimes. You cry. You fix it. Then you tweet about it. That’s life.”_ 😎  
+_“Code breaks sometimes. You cry. You fix it. Then you make a linkedin post about it. That’s life.”_ 😎  
 
 Let’s make something cool together. Welcome to Trackathon fam! 🫂🚀  
