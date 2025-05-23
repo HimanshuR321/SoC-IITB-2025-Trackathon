@@ -29,7 +29,7 @@ Basically:
 
 ## 📅 Week-by-Week Agenda (No boring lectures, promise 🙅‍♂️)
 
-### Week 1 – ** HTML/CSS Understandings **
+### Week 1 – HTML/CSS Understandings
 - Learn to write tags like `<div>` instead of `<cry>`
 - Build a page that shows your face 😬, fav food 🍕 & hobbies no one asked about 🛹
 
