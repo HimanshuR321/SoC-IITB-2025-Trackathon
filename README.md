@@ -29,15 +29,15 @@ Basically:
 
 ## 📅 Week-by-Week Agenda (No boring lectures, promise 🙅‍♂️)
 
-### Week 1 – **HTML/CSS Bootcamp 🔨**
+### Week 1 – **HTML/CSS Understandings **
 - Learn to write tags like `<div>` instead of `<cry>`
 - Build a page that shows your face 😬, fav food 🍕 & hobbies no one asked about 🛹
 
-### Week 2 – **JavaScript Shenanigans ⚡**
+### Week 2 – **JavaScript Fundamentals ⚡**
 - Understand loops, variables, functions (no Hogwarts, just logic)
 - Make a GitHub Profile Finder App: finally something that listens to you 😤
 
-### Week 3 – **React-a-thon 🛠️**
+### Week 3 – **React**
 - Setup React with Vite (fast af boi 🚀)
 - Build a shopping list app with components so reusable they’re basically Tupperware 🥡
 
