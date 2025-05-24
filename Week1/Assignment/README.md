@@ -39,9 +39,11 @@ By completing this task, you’ll practice:
 ## 🧱 Starter Template
 
 Your folder should look like this:
--week-1/
--├── index.html
--└── styles.css
+```
+week-1/
+├── index.html
+└── styles.css
+```
 
 ---
 
