@@ -1,81 +1,79 @@
-# 🤖 TRACKATHON – SoC IITB 2025 💻 
-> _“The only tracker you’ll actually use, unlike your fitness app 💀”_
+# TRACKATHON – SoC IITB 2025  
+_"The only tracker you’ll actually use — unlike your fitness app."_
 
 ---
 
-## 🧐 What’s This?
+## What Is Trackathon?
 
-Imagine you’re on Leetcode, Codeforces, CodeChef...  
-But instead of switching tabs like a caffeinated squirrel 🐿️,  
-you have **ONE app** that pulls all contests into a neat lil’ page 📅 
-+ lets you bookmark, + links YouTube solutions (YES, really).  
+Competitive programming platforms like LeetCode, Codeforces, and CodeChef offer excellent opportunities — but switching between them constantly? Not so much.  
+**Trackathon** is a unified contest tracker that aggregates upcoming contests into a single dashboard. You can bookmark contests, view essential details, and even access curated YouTube solutions — all in one streamlined app.
 
-Basically:
-> _Coding contests but make it Netflix for nerds 🤓🍿_
+In essence:  
+_A well-designed utility for developers who'd rather code than keep a dozen tabs open._
 
 ---
 
-##  Tech Stack (aka our Infinity Stones 💎)
+## Tech Stack Overview (Your Infinity Stones)
 
-| ⚙️ Area | 💼 Stack |
-|--------|----------|
-|  Frontend | React, Redux Toolkit, Tailwind CSS, Axios – aka the Marvel Avengers of UI 💅 |
-|  Backend | Node.js, Express, MongoDB, Mongoose – backend vibes only |
-|  APIs | Codeforces, CodeChef, LeetCode, YouTube – free data, baby! |
-|  DevOps | GitHub, Vercel (Frontend), Render (Backend) – zero rupee deployment 💸 |
-|  Design | Figma – where UIs go to glow up ✨ |
-
----
-
-## 📅 Week-by-Week Agenda (No boring lectures, promise 🙅‍♂️)
-
-### Week 1 – HTML/CSS Understandings
-- Learn to write tags like `<div>` instead of `<cry>`
-- Build a page that shows your face 😬, fav food 🍕 & hobbies no one asked about 🛹
-
-### Week 2 – **JavaScript Fundamentals ⚡**
-- Understand loops, variables, functions (no Hogwarts, just logic)
-- Make a GitHub Profile Finder App: finally something that listens to you 😤
-
-### Week 3 – **React**
-- Setup React with Vite (fast af boi 🚀)
-- Build a shopping list app with components so reusable they’re basically Tupperware 🥡
-
-### Week 4 – **Backend Era Begins 🔥**
-- Set up a server that says “Hello World” and feels proud about it 
-- Connect to MongoDB and feel like a hacker in a movie 🎬
-
-### Week 5 – **Login Screens & Pretty Things 🎀**
-- Store users in DB (no more fake logins)
-- Tailwind = glow up your UI like an Insta filter 💅
-- Add some animations because... dopamine 🐒
-
-### Week 6 – BUILD THE DAMN THING
-- Use APIs to fetch contests (you’re now scraping without scraping the bottom of the barrel 😮‍💨)
-- Display beautifully
-- Add bookmarks 💖
-- Test & fix bugs like a digital exterminator 🐛
-
-### Week 7 (Optional but Goated 🐐)
-- Make it work on mobile too 📱
-- Add **Dark Mode** because we’re not savages 👀
-- Auto-fetch YouTube links like a certified YouTube hacker (jk... kinda)
-- Deploy → Show off around your friends 
+| Area        | Stack                                             |
+|-------------|---------------------------------------------------|
+| Frontend    | React, Redux Toolkit, Tailwind CSS, Axios         |
+| Backend     | Node.js, Express, MongoDB, Mongoose               |
+| APIs        | Codeforces, CodeChef, LeetCode, YouTube           |
+| DevOps      | GitHub, Vercel (Frontend), Render (Backend)       |
+| Design      | Figma                                             |
 
 ---
 
-## 🧾 Pre-requisites?
+## Weekly Learning Agenda
 
-- A laptop (not your friend's)
-- A working internet (yep, no Jio excuses)
-- Slight knowledge of HTML/CSS/JS helps, but **zero pressure**
-- MOST IMPORTANT:  
-> _Google things. Relentlessly._ 🔍
+### Week 1 – HTML & CSS Foundations  
+- Understand the basic building blocks of webpages  
+- Create a profile page that includes your name, favorite foods, and hobbies
+
+### Week 2 – JavaScript Fundamentals  
+- Learn about variables, loops, functions, and conditional logic  
+- Build a GitHub Profile Finder web app using an external API
+
+### Week 3 – Introduction to React  
+- Set up a React project using Vite  
+- Create a shopping list app using reusable components and props
+
+### Week 4 – Introduction to Backend Development  
+- Build a basic Express server that returns a simple message  
+- Connect the backend to MongoDB using Mongoose
+
+### Week 5 – User Authentication & UI Enhancements  
+- Implement user login and signup features using MongoDB  
+- Style the frontend with Tailwind CSS  
+- Introduce simple animations to improve UX
+
+### Week 6 – Project Integration  
+- Integrate APIs from Codeforces, CodeChef, and LeetCode  
+- Display contest data on the frontend  
+- Add contest bookmarking functionality  
+- Perform testing and debugging
+
+### Week 7 (Optional but Recommended) – Final Touches  
+- Add responsive design for mobile support  
+- Implement dark mode  
+- Auto-fetch YouTube solution links based on contest problems  
+- Deploy the full-stack application and prepare for demo day
 
 ---
 
-## Final Words From Your Chill Mentor
+## Prerequisites
 
-_“Code breaks sometimes. You cry. You fix it. Then you make a linkedin post about it. That’s life.”_ 😎  
+- A functional laptop (not borrowed)  
+- A stable internet connection  
+- Basic knowledge of HTML, CSS, and JavaScript is helpful but not mandatory  
+- Most importantly:  
+  _The ability to search, experiment, and not give up when something breaks_
 
-Let’s make something cool together. Welcome to Trackathon fam! 🔥
+---
+
+## Final Words from Your Mentor
+
+_"Your code will break. You will fix it. Then you’ll write a LinkedIn post about it. That’s how developers grow."_  
+
+Welcome to Trackathon — let’s build something you’ll actually be proud to showcase.
