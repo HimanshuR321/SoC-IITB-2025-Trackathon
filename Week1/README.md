@@ -10,7 +10,6 @@ Inside the `week1` folder, you’ll find the following:
 
 - `Assignment/`: Contains the final assignment for this week. You’ll need to submit this via the Google Form linked below.
 - `Content/`: Core reading material and examples to help you understand HTML and CSS concepts.
-- `Practice Task (With Solution)/`: A set of hands-on problems along with solutions. Use these to practice what you've learned.
 - `README.md`: (This file) Weekly instructions and important notes.
 
 ## Learning Plan
@@ -18,10 +17,7 @@ Inside the `week1` folder, you’ll find the following:
 1. **Start with the Content folder**  
    Go through the reading materials. These will give you a solid grasp of what HTML and CSS are and how they're used to build web pages.
 
-2. **Move to Practice Tasks**  
-   Try to solve them without peeking at the solutions initially. Use the solutions only for reference once you’re done or stuck for too long.
-
-3. **Complete the Assignment**  
+2. **Complete the Assignment**  
    The assignment will test your understanding of the week's concepts. Complete it and submit via the following Google Form:  
    ➤ [Submission Form](#)
 
