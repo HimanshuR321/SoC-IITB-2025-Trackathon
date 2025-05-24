@@ -1,4 +1,4 @@
-# TRACKATHON – SoC IITB 2025  
+# TRACKATHON – SoC IITB 2025 💻 
 _"The only tracker you’ll actually use — unlike your fitness app."_
 
 ---
