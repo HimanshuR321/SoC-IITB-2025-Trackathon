@@ -13,7 +13,7 @@ _A well-designed utility for developers who'd rather code than keep a dozen tabs
 
 ---
 
-## Tech Stack Overview (Your Infinity Stones)
+## Tech Stack Overview (Your Infinity Stones 💎)
 
 | Area        | Stack                                             |
 |-------------|---------------------------------------------------|
@@ -29,24 +29,24 @@ _A well-designed utility for developers who'd rather code than keep a dozen tabs
 
 ### Week 1 – HTML & CSS Foundations  
 - Understand the basic building blocks of webpages  
-- Create a profile page that includes your name, favorite foods, and hobbies
+- Create a profile page that includes your name, favorite foods, and hobbies that no one asked about
 
 ### Week 2 – JavaScript Fundamentals  
 - Learn about variables, loops, functions, and conditional logic  
-- Build a GitHub Profile Finder web app using an external API
+- Build a GitHub Profile Finder web app using an external API to stalk your crush on GitHub
 
 ### Week 3 – Introduction to React  
 - Set up a React project using Vite  
-- Create a shopping list app using reusable components and props
+- Create a shopping list app using reusable components and props 
 
 ### Week 4 – Introduction to Backend Development  
 - Build a basic Express server that returns a simple message  
-- Connect the backend to MongoDB using Mongoose
+- Connect the backend to MongoDB using Mongoose 
 
 ### Week 5 – User Authentication & UI Enhancements  
 - Implement user login and signup features using MongoDB  
 - Style the frontend with Tailwind CSS  
-- Introduce simple animations to improve UX
+- Introduce simple animations to improve UX like an instragram filter
 
 ### Week 6 – Project Integration  
 - Integrate APIs from Codeforces, CodeChef, and LeetCode  
@@ -58,7 +58,7 @@ _A well-designed utility for developers who'd rather code than keep a dozen tabs
 - Add responsive design for mobile support  
 - Implement dark mode  
 - Auto-fetch YouTube solution links based on contest problems  
-- Deploy the full-stack application and prepare for demo day
+- Deploy the full-stack application and prepare for demo day and flex around your friends
 
 ---
 
