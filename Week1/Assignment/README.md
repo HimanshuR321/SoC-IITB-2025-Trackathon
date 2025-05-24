@@ -21,6 +21,7 @@ This isn’t your LinkedIn profile — we want to see a bit of personality. Incl
 6. **Your Tech Stack (so far)** – Even if it's just HTML and CSS, own it
 7. **Fun Fact About You** – Example: “I once pushed to main on the first try” (we won’t believe you)
 
+Attached a reference image if you are unable to understand (Please note that this is only for reference, you can follow this or google a better design)
 ---
 
 ## 💡 Learning Outcomes
