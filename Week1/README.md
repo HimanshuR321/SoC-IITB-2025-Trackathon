@@ -19,7 +19,7 @@ Inside the `week1` folder, you’ll find the following:
 
 2. **Complete the Assignment**  
    The assignment will test your understanding of the week's concepts. Complete it and submit via the following Google Form:  
-   - [Submission Form]([#](https://forms.gle/i3memnCKqQHEg6Ra6))
+   - [Submission Form](https://forms.gle/i3memnCKqQHEg6Ra6)
    - Deadline: 31st May, 2025
 
 ## Guidelines
