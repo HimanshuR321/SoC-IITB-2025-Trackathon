@@ -1,9 +1,9 @@
 # 🚀 SoC Trackathon - Practice Set 1
 
-Welcome to **Practice Set 1** of the Trackathon Series under the Summer of Code initiative at our college!  
+Welcome to **Practice Set 1** of the Trackathon Series!  
 These exercises are designed to help you practice basic programming logic and build a solid foundation before diving into advanced topics.
 
-Each problem focuses on a core concept like functions, conditionals, strings, or loops.
+Each problem focuses on a core concept like functions, conditionals, strings, or loops. All the codes are need to written in Javascript language only.
 
 ---
 
