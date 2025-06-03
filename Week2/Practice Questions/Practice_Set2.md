@@ -34,7 +34,7 @@ This set focuses on working with **functions, arrays, objects, closures, and dat
    Write a function that takes an array of numbers as an argument and returns the sum of all the numbers in the array.
 
 7. **Function: Filter Long Strings**  
-   Write a function that takes an array of strings as an argument and returns a new array with only the strings that have a length greater than 5.
+   Write a function that takes an array of strings as argument and returns a new array with only the strings that have a length greater than 5.
 
 8. **Function: Get Object Keys**  
    Write a function that takes an object and returns an array of all the keys in the object.
