@@ -4,11 +4,7 @@ Welcome to **Practice Set 2** of the Trackathon Series!
 This set focuses on working with **functions, arrays, objects, closures, and data transformations** — essential concepts for mastering logic building. All the codes are need to be written in Javascript language (.js files) only.
 
 
-## 🧠 Learning Goals
-
-- Practice **closures**, **object manipulation**, and **array methods**.
-- Learn to think in **modular functions** and **pure logic**.
-- Develop cleaner and reusable code structures.
+The goal of this practice is to strengthen your understanding of closures, object manipulation, and array methods while learning to write cleaner, modular, and reusable code.
 
 ---
 
