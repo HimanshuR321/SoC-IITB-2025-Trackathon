@@ -39,27 +39,3 @@ Each problem focuses on a core concept like functions, conditionals, strings, or
 10. **Function: Common Elements in Arrays**  
     Write a function that takes two arrays of integers as arguments and returns an array of the common elements in both arrays, without any duplicates.  
     The returned array should be sorted in ascending order.
-
----
-
-## 💡 Submission Guidelines
-
-- Create a new folder named `practice-set-1` inside your repository.
-- Create separate files for each question:  
-  `q1.py`, `q2.py`, ... `q10.py` (or `.js`, `.cpp`, `.java` depending on your language).
-- Add comments in your code for clarity.
-- Push your code to GitHub before the weekly check-in.
-
----
-
-## ✅ Tips
-
-- Try to write clean and readable code.
-- Use proper function names and indentation.
-- Test your solution with different inputs.
-- Feel free to ask mentors for help!
-
----
-
-Happy Coding! 🚀  
-_– SoC Mentors Team_
