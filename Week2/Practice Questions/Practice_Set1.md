@@ -39,3 +39,6 @@ Each problem focuses on a core concept like functions, conditionals, strings, or
 10. **Function: Common Elements in Arrays**  
     Write a function that takes two arrays of integers as arguments and returns an array of the common elements in both arrays, without any duplicates.  
     The returned array should be sorted in ascending order.
+---
+
+Happy Coding! 🚀  
