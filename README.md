@@ -29,36 +29,42 @@ _A well-designed utility for developers who'd rather code than keep a dozen tabs
 
 ### Week 1 – HTML & CSS Foundations  
 - Understand the basic building blocks of webpages  
-- Create a profile page that includes your name, favorite foods, and hobbies that no one asked about
+- Create a profile page that includes your name, favorite foods, and hobbies that no one asked about  
 
-### Week 2 – JavaScript Fundamentals  
+### Week 2 – JavaScript Fundamentals (Basics)  
 - Learn about variables, loops, functions, and conditional logic  
-- Build a GitHub Profile Finder web app using an external API to stalk your crush on GitHub
+- Practice pure logic problems to develop core programming skills  
 
-### Week 3 – Introduction to React  
+### Week 3 – JavaScript (Moderate to Advanced)  
+- Understand arrays, objects, higher-order functions, and closures  
+- Explore concepts like map, filter, reduce, and callback functions  
+- Build mini projects or utilities like a to-do list or custom calculator  
+
+### Week 4 – Introduction to React  
 - Set up a React project using Vite  
-- Create a shopping list app using reusable components and props 
+- Create a shopping list app using reusable components and props  
 
-### Week 4 – Introduction to Backend Development  
+### Week 5 – Introduction to Backend Development  
 - Build a basic Express server that returns a simple message  
-- Connect the backend to MongoDB using Mongoose 
+- Connect the backend to MongoDB using Mongoose  
 
-### Week 5 – User Authentication & UI Enhancements  
+### Week 6 – User Authentication & UI Enhancements  
 - Implement user login and signup features using MongoDB  
 - Style the frontend with Tailwind CSS  
-- Introduce simple animations to improve UX like an instragram filter
+- Introduce simple animations to improve UX like an Instagram filter  
 
-### Week 6 – Project Integration  
+### Week 7 – Project Integration  
 - Integrate APIs from Codeforces, CodeChef, and LeetCode  
 - Display contest data on the frontend  
 - Add contest bookmarking functionality  
-- Perform testing and debugging
+- Perform testing and debugging  
 
-### Week 7 (Optional but Recommended) – Final Touches  
+### Week 8 (Optional but Recommended) – Final Touches  
 - Add responsive design for mobile support  
 - Implement dark mode  
 - Auto-fetch YouTube solution links based on contest problems  
-- Deploy the full-stack application and prepare for demo day and flex around your friends
+- Deploy the full-stack application and prepare for demo day and flex around your friends  
+
 
 ---
 
