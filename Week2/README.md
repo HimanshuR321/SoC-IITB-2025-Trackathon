@@ -24,10 +24,10 @@ Watch this video to install and run JavaScript in VS Code like a pro:
 Inside the `Week2` folder:
 
 - `Practice Questions/`
-  - `Practice_Set1.md`: Core beginner-friendly questions that’ll flex your logical muscles.
-  - `Practice_Set2.md`: Slightly moderate ones, builds on Set 1 — designed to make you think.
+  - `Practice_Set1`: Core beginner-friendly questions that’ll flex your logical muscles.
+  - `Practice_Set2`: Slightly moderate ones, builds on Set 1 — designed to make you think.
 - `Reading Material/`
-  - `Reference Notes (Handwritten).pdf`: Possibly one of the best handwritten JavaScript note collections I could share with you (though not created by me - but I wish I had). Don’t blindly memorize — read, understand, and absorb the logic.
+  - `Reference Notes (Handwritten)`: Possibly one of the best handwritten JavaScript note collections I could share with you (though not created by me - but I wish I had). Don’t blindly memorize — read, understand, and absorb the logic.
 
 📌 **Note**: Don’t blindly memorize from the notes like it’s a viva — read to understand. JavaScript is not a parrot game.
 
