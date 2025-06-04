@@ -42,7 +42,7 @@ Inside the `Week2` folder:
    Your first read = overview. Second read = learning. Third read = realisation that JavaScript is fun.
 
 3. **Code the Practice Questions**  
-   These problems are hand-picked to give you a compact and effective intro to JavaScript.
+   These problems are hand-picked by me to learn Javascript in shortest span of time and to give you a compact and effective intro to JavaScript.
    > Try to write code on your own for every problem. 
    > 🧘 Don’t copy-paste — write, debug, cry (a little), and repeat.
 
