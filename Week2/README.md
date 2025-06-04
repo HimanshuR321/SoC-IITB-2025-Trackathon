@@ -2,7 +2,7 @@
 
 Welcome to Week 2 of the Trackathon journey.
 
-Hey champs! I know Week 1 felt like chewing cardboard — who really enjoys typing HTML tags and tweaking CSS margins all day? But guess what? Just like **RCB finally winning the IPL trophy**, your patience is about to pay off.
+Hey champs! was a bit boring — after all, who loves writing markup and writing those css styling all day? But guess what? Just like **RCB finally winning the IPL trophy**, your patience is about to pay off.
 
 Because this week… we enter the realm of **JavaScript — the king 👑 of web development**.
 
@@ -12,22 +12,22 @@ JavaScript adds logic, superpowers, and *vibe* to your webpages. Without it, web
 
 ## ▶️ Getting Started with JavaScript
 
-Before you become the next Brendan Eich, get your environment ready.  
+Before you jump into it, get your environment setup ready to code in javascript.  
 Watch this video to install and run JavaScript in VS Code like a pro:
 
 [![Install JavaScript & Setup in VS Code](https://img.youtube.com/vi/Ic_qG65iYNE/0.jpg)](https://youtu.be/Ic_qG65iYNE?si=-7a058281edXfRHq)
 
 ---
 
-## 🗂️ Folder Structure (a.k.a. your JavaScript dojo)
+## 🗂️ Folder Structure
 
 Inside the `Week2` folder:
 
 - `Practice Questions/`
   - `Practice_Set1.md`: Core beginner-friendly questions that’ll flex your logical muscles.
-  - `Practice_Set2.md`: Slightly tougher ones, for when you’re warmed up and ready to rumble.
+  - `Practice_Set2.md`: Slightly moderate ones, builds on Set 1 — designed to make you think.
 - `Reading Material/`
-  - `Reference Notes (Handwritten).pdf`: Possibly the best handwritten JavaScript notes out there. I didn’t make them, but I wish I had.
+  - `Reference Notes (Handwritten).pdf`: Possibly one of the best handwritten JavaScript note collections I could share with you (though not created by me - but I wish I had). Don’t blindly memorize — read, understand, and absorb the logic.
 
 📌 **Note**: Don’t blindly memorize from the notes like it’s a viva — read to understand. JavaScript is not a parrot game.
 
@@ -36,13 +36,14 @@ Inside the `Week2` folder:
 ## 🧠 Learning Plan
 
 1. **Set up JavaScript**  
-   Watch the video above. No setup = no glory.
+    Set up your editor and understand how to run JavaScript in your system.
 
-2. **Skim the Notes, Then Dive Deep**  
+2. **Read through the Reference Notes**  
    Your first read = overview. Second read = learning. Third read = realisation that JavaScript is fun.
 
 3. **Code the Practice Questions**  
-   The sets are like gym workouts for your brain.  
+   These problems are hand-picked to give you a compact and effective intro to JavaScript.
+   > Try to write code on your own for every problem. 
    > 🧘 Don’t copy-paste — write, debug, cry (a little), and repeat.
 
 ---
@@ -50,7 +51,7 @@ Inside the `Week2` folder:
 ## 📜 Guidelines
 
 This week:  
-**AI = Off. Brain = ON.**
+**Avoid using AI tools to write or debug code. Use documentations, watch youtube tutorials, ask doubts. You’ll thank yourself later.**
 
 Explore documentation (your new best friend):
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -61,11 +62,12 @@ Explore documentation (your new best friend):
 
 ## 📌 Assignment Instructions
 
-No formal assignment this week — but don’t relax like it’s Sunday IPL.
+No big assignment this week — but don’t relax like it’s Sunday IPL.
 
 **A day before the deadline**, I’ll assign **2 questions** to each of you from the practice sets.
 
-📤 You will need to submit those 2 as your official submission.  
+📤 You will need to submit those 2 as your official submission via this form:  
+👉 [Submit Your Assigned Questions Here](#)
 So don’t skip practice or you’ll feel like India during a 2023 World Cup final. 😬
 
 ---
@@ -73,7 +75,7 @@ So don’t skip practice or you’ll feel like India during a 2023 World Cup fin
 ## 💬 Support
 
 Stuck? Don't suffer in silence like unresponsive code.  
-Ping in the group or **DM me** with the problem, screenshot, or even an error log that looks like it came from NASA.
+Reach out in the group chat or **DM me** with the problem, screenshot, or even an error log that looks like it came from NASA.
 
 ---
 
