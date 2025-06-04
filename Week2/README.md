@@ -2,7 +2,7 @@
 
 Welcome to Week 2 of the Trackathon journey.
 
-Hey champs! was a bit boring — after all, who loves writing markup and writing those css styling all day? But guess what? Just like **RCB finally winning the IPL trophy**, your patience is about to pay off.
+Hey everyone! I know week1 was a bit boring — after all, who loves writing markups and writing those css styling all day? But guess what? Just like **RCB finally winning the IPL trophy**, your patience is about to pay off.
 
 Because this week… we enter the realm of **JavaScript — the king 👑 of web development**.
 
