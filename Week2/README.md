@@ -67,7 +67,7 @@ No big assignment this week — but don’t relax like it’s Sunday IPL.
 **A day before the deadline**, I’ll assign **2 questions** to each of you from the practice sets.
 
 📤 You will need to submit those 2 as your official submission via this form:  
-👉 [Submit Your Assigned Questions Here](#)
+👉 [Submit Your Assigned Questions Here](https://forms.gle/jVo28txc7w4t3TDG7)
 So don’t skip practice or you’ll feel like India during a 2023 World Cup final. 😬
 
 ---
