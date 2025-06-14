@@ -10,7 +10,7 @@ So let's start with week 3.
 
 ---
 
-## ▶️ DOM Concepts & Setup (Optional but 🔥 Recommended)
+## ▶️ DOM Concepts & Setup
 
 You don’t need to install anything new this week. But before hitting your reps, warm up with this **DOM and JavaScript essentials video**: 
 This video is good especially to understand DOM and to crystal clear a few concepts as per your need.
