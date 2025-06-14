@@ -59,10 +59,6 @@ So if you don’t practice now, you’ll struggle like someone who skipped leg d
 
 ## 📌 Guidelines
 
-This week’s success mantra:
-
-> **Lift the logic, DOMinate the bugs.**
-
 Again speaking, avoid AI tools. Instead:
 - Rely on [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - Train with [W3Schools](https://www.w3schools.com/js/)
@@ -72,9 +68,9 @@ Again speaking, avoid AI tools. Instead:
 
 ## 💬 Support
 
-Stuck on a rep? DOM event not firing? Async lifting too heavy?
+Stuck on a problem? DOM event not working? Async just made you out-of-sync?
 
-🏋️ Ask in the group, DM with screenshots, or drop your broken code for a form check. We’ve got your back like a spotter in the gym.
+🏋️ Ask in the group, DM with screenshots, or drop your broken code for a quick check. We’ve got your back like a spotter in the gym.
 
 ---
 
@@ -83,6 +79,6 @@ Stuck on a rep? DOM event not firing? Async lifting too heavy?
 Week 3 is where your JavaScript strength starts to show.
 
 DOM + Events + Async = the **dead lifts** of web development.  
-Keep repping, keep pushing — and soon, you’ll be a full-stack beast.
+Keep grinding, keep pushing — and soon, you’ll be a full-stack beast.
 
 Let’s go DOM-inators! 💥💻
