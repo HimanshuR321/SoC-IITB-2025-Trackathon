@@ -50,7 +50,7 @@ Inside the `Week3` folder:
 
 🧾 For assignment of this week, we will follow the same pattern as of week 2 was.
 
-**A day before the deadline**, each of you will be assigned **2 questions** from this week’s practice sets. 
+A day before the deadline, each of you will be assigned **2 questions** from this week’s practice sets. 
 👉 [Submit Your Assigned Questions Here](https://forms.gle/RPRFiGWPDAnCjD5Z9)
 **Deadline: 21st June, 11:59PM**
 
