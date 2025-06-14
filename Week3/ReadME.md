@@ -53,7 +53,7 @@ A day before the deadline, each of you will be assigned **2 questions** from thi
 👉 [Submit Your Assigned Questions Here](https://forms.gle/RPRFiGWPDAnCjD5Z9)
 **Deadline: 21st June, 11:59PM**
 
-So if you don’t practice now, you’ll struggle like someone who skipped leg day before trek season.
+You don’t want DOM manipulations to haunt you, right? So go through week 3 and start solving.
 
 ---
 
