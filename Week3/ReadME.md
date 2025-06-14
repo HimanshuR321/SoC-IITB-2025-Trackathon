@@ -1,4 +1,4 @@
-# Week 3 – DOM, Events & Asynchronous JavaScript 🏋️‍♂️
+# Week 3 – DOM, Events & Asynchronous JavaScript 🎨🖌️
 
 Welcome to Week 3 of the Trackathon journey!
 
