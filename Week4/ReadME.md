@@ -15,7 +15,7 @@ React will help you:
 
 We’ll follow this YouTube series by CodeHelp — it’s beginner-friendly and well-paced.
 
-[![React Bootcamp Playlist](https://img.youtube.com/vi/kRwmnQDiRWk/mqdefault.jpg)](https://youtube.com/playlist?list=PL9i39jUQljInNAIHUnnZhKrYhLbFt5I_6)
+[![React Bootcamp Playlist](https://img.youtube.com/vi/kRwmnQDiRWk/hqdefault.jpg)](https://youtube.com/playlist?list=PL9i39jUQljInNAIHUnnZhKrYhLbFt5I_6)
 
 
 
