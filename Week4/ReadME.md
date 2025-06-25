@@ -46,7 +46,7 @@ By the end of this week, you’ll be able to:
    Follow it step-by-step. Pause, code along, rewind if needed.
 
 2. **Explore `/Content`**  
-   This folder includes notes and examples for reference.
+   This folder includes notes for reference.
 
 3. **Get Ready for the `/Assignment`**  
    Because you cannot learn react without using it with your bare hands.
