@@ -15,7 +15,8 @@ React will help you:
 
 We’ll follow this YouTube series by CodeHelp — it’s beginner-friendly and well-paced.
 
-[![React Bootcamp Playlist](https://github.com/HimanshuR321/SoC-IITB-2025-Trackathon/blob/main/Week4/assets/react-series-thumbnail.png?raw=true)](https://youtube.com/playlist?list=PL9i39jUQljInNAIHUnnZhKrYhLbFt5I_6&si=YKSnhAJ1Rfx17oS8)
+[![React Bootcamp Playlist](https://img.youtube.com/vi/6a8CNTk9yo4/maxresdefault.jpg)](https://youtube.com/playlist?list=PL9i39jUQljInNAIHUnnZhKrYhLbFt5I_6)
+
 
 
 
