@@ -49,7 +49,7 @@ By the end of this week, you’ll be able to:
    This folder includes notes and examples for reference.
 
 3. **Get Ready for the `/Assignment/`**  
-   A video will be shared with you to build a **Dice Game** using React.
+   A video will be shared with you about building a **Dice Game** using React.
 
 ---
 
