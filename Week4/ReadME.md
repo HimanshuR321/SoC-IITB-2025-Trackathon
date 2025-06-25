@@ -15,7 +15,8 @@ React will help you:
 
 We’ll follow this YouTube series by CodeHelp — it’s beginner-friendly and well-paced.
 
-[![React Bootcamp Playlist](https://img.youtube.com/vi/yc2hACr7F1g/0.jpg)](https://youtube.com/playlist?list=PL9i39jUQljInNAIHUnnZhKrYhLbFt5I_6&si=YKSnhAJ1Rfx17oS8)
+![React Bootcamp Playlist](https://github.com/HimanshuR321/SoC-IITB-2025-Trackathon/blob/main/Week4/assets/react-series-thumbnail.png?raw=true)
+
 
 📌 **Skip these for now:**
 - Tailwind CSS video
