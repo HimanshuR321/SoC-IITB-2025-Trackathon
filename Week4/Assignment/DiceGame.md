@@ -33,13 +33,13 @@ Yes, it's like gambling — but educational.
 
 ## 🛠 Required Features
 
-- ✅ Number selection (1–6) with clear visual feedback
-- ✅ Random dice roll (with dice face image)
-- ✅ Score updates in real-time
-- ✅ Reset score functionality
-- ✅ Toggle to show/hide rules
-- ✅ Error handling for missing number selection
-- ✅ Responsive layout that works on all screens
+-  Number selection (1–6) with clear visual feedback
+-  Random dice roll (with dice face image)
+-  Score updates in real-time
+-  Reset score functionality
+-  Toggle to show/hide rules
+-  Error handling for missing number selection
+-  Responsive layout that works on all screens
 
 ---
 
