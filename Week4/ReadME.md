@@ -1,4 +1,4 @@
-# Week 4 – React.js: Build Dynamic UIs Like a Pro ⚛️
+# Week 4 – React.js: Build Dynamic UIs Like a Pro 😎
 
 Welcome to Week 4 of the Trackathon!
 
