@@ -42,7 +42,7 @@ _A well-designed utility for developers who'd rather code than keep a dozen tabs
 
 ### Week 4 – Introduction to React  
 - Set up a React project using Vite  
-- Create a shopping list app using reusable components and props  
+- Create a Dice game using reusable components and props  
 
 ### Week 5 – Introduction to Backend Development  
 - Build a basic Express server that returns a simple message  
