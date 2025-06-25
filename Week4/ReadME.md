@@ -1,6 +1,6 @@
-# Week 4 – React.js: Build Dynamic UIs Like a Pro ⚛️
+# Week 4 – React.js: Build Dynamic UIs Like a Pro 
 
-Welcome to Week 4 of the Trackathon!
+Let's start with Week 4 of the Trackathon!
 
 By now, you've mastered HTML, styled it with CSS, and added interactivity using JavaScript. This week, we’re entering the world of **React.js**, the go-to library for building modern, interactive user interfaces.
 
@@ -18,9 +18,6 @@ We’ll follow this YouTube series by CodeHelp — it’s beginner-friendly and 
 [![React Bootcamp Playlist](https://img.youtube.com/vi/kRwmnQDiRWk/hqdefault.jpg)](https://youtube.com/playlist?list=PL9i39jUQljInNAIHUnnZhKrYhLbFt5I_6)
 
 
-
-
-
 📌 **Skip these for now:**
 - Tailwind CSS video
 - Deployment video (final one)
@@ -35,7 +32,7 @@ By the end of this week, you’ll be able to:
 
 - Understand what React is and how it works
 - Create and use **functional components**
-- Use **JSX** syntax to write HTML in JS
+- Use **JSX** syntax to write HTML in Javascript
 - Pass data with **props**
 - Handle dynamic data using **useState**
 - Fetch data using **useEffect**
@@ -51,27 +48,11 @@ By the end of this week, you’ll be able to:
 2. **Explore `/Content/`**  
    This folder includes notes and examples for reference.
 
-3. **Practice**  
-   Try the tasks in `/Practice Questions/` to test your understanding.
-
-4. **Get Ready for the Assignment**  
-   A guided assignment video will help you build a **Dice Game** using React (details below).
+3. **Get Ready for the `/Assignment/`**  
+   A video will be shared with you to build a **Dice Game** using React.
 
 ---
 
-## 🎲 Assignment – Dice Game (Coming Soon)
-
-A video will be shared to help you build a Dice Game using React.
-
-Features:
-- Click to "roll" a dice
-- State management to track number
-- Render dice outcome visually
-- Optional: Add winning logic or score tracking
-
-Assignment materials will be in the `/Assignment/` folder once released.
-
----
 
 ## 💬 Need Help?
 
