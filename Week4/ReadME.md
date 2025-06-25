@@ -78,4 +78,4 @@ React is a powerful tool. This week marks your transition into modern frontend d
 
 Start building, stay consistent, and don’t hesitate to ask questions.
 
-Let’s React! ⚛️🚀
+Let’s React!🚀
