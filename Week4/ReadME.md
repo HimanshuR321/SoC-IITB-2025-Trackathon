@@ -46,7 +46,8 @@ By the end of this week, you’ll be able to:
    Follow it step-by-step. Pause, code along, rewind if needed.
 
 2. **Explore `/Content`**  
-   This folder includes notes for reference. To be very honest, the assignment does not require you to read the complete notes and you can just watch the playlist to understand and make things, but for the sake of formality and for mentees who want to learn more, it is provided. These notes are from [topperWorld](topperworld.in)
+   This folder includes notes for reference. To be very honest, the assignment does not require you to read the complete notes — you can just watch the playlist to understand and build things. But for the sake of formality, and for mentees who want to learn more, it is provided. These notes are from [TopperWorld](https://topperworld.in).
+
 
 3. **Get Ready for the `/Assignment`**  
    Because you cannot learn react without using it with your bare hands.
