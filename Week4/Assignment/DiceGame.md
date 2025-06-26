@@ -43,7 +43,7 @@ Yes, it's like gambling — but educational.
 
 ---
 
-## 🧩 Suggested Components
+## 🧩 Suggested Components (Just for reference, you can create as your choice)
 
 - `App`: Manages global game state and navigation
 - `Home`: A simple landing page with a start button and a friendly dice image
