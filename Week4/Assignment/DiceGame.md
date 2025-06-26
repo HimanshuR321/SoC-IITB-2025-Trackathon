@@ -63,6 +63,12 @@ Yes, it's like gambling — but educational.
 
 ---
 
+## 🎥 Assignment Walkthrough - A video to make you understand it simply
+
+[![Watch Assignment Explanation](https://img.youtube.com/vi/kRwmnQDiRWk/hqdefault.jpg)](https://youtu.be/kRwmnQDiRWk)
+
+This video will help you understand how the Dice Game works and to make it clear you don't need to replicate this, you can come up with better designs and extra features but try to have the functionalities as it is.
+
 ## 📅 Submission Details
 
 - **Deadline:** 2nd July, 11:59 PM
