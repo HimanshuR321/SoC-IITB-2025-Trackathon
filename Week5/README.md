@@ -57,7 +57,7 @@ Tailwind not applying? React error in rendering?
 ## ✅ Pro Tips
 
 - Use [Tailwind Docs](https://v3.tailwindcss.com/) — everything is searchable and example-rich.  
-  ❗ _Please stick to version `3.4.17` — avoid version 4.1+ for now to avoid unexpected bugs._
+  ❗ _Please stick to version `3.4.17` — don't use version 4.1+ for now to avoid unexpected bugs._
 - Don’t mix Tailwind and custom CSS unless needed in a do-or-die case.
 - Mobile-first, responsive design is super easy — practice it.
 
