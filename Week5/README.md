@@ -34,10 +34,7 @@ This week's learning is focused on just **one epic video** — **no distractions
 
 We’ll recreate the **Swiggy UI** using **React + Tailwind CSS**.
 
-📁 Refer to the `/Assignment` folder for:
-- Mock UI reference
-- Folder structure guidance
-- Feature breakdown
+📁 Refer to the `/Assignment` folder for: Mock UI reference
 
 📝 **Submit your assignment here:**  
 🔗 [Submission Form](https://forms.gle/u9iYJb9P7ryu3NjJ9)
