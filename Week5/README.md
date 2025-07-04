@@ -71,7 +71,7 @@ Tailwind not applying? React error in rendering?
 
 ## ✅ Pro Tips
 
-- Use [Tailwind Docs](https://tailwindcss.com/docs) — everything is searchable and example-rich
+- Use [Tailwind Docs]((https://v3.tailwindcss.com/) — everything is searchable and example-rich
 - Don’t mix Tailwind and custom CSS unless absolutely needed
 - Mobile-first, responsive design is super easy — practice it
 
