@@ -4,7 +4,7 @@ Time to put those Tailwind skills to the test! This week’s assignment is all a
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Build the UI of an **e-commerce platform** using **React.js** and **Tailwind CSS**.
 
@@ -14,14 +14,13 @@ You have been assigned a **specific page** from the design system and expected t
 
 ## 🔗 Design Source (Figma)
 
-🎨 Use this Figma design as your reference:  
-**[E-Commerce UI Figma](https://www.figma.com/design/kQXJm3yJwfLinQMJ8qJJ8O/eCommerce-Website-%7C-Web-Page-Design-%7C-UI-KIT-%7C-Interior-Landing-Page--Community-?node-id=0-1&p=f&t=ts7za7zvlDzQTgK2-0)**
+Use this Figma design as your reference:  **[E-Commerce UI Figma](https://www.figma.com/design/kQXJm3yJwfLinQMJ8qJJ8O/eCommerce-Website-%7C-Web-Page-Design-%7C-UI-KIT-%7C-Interior-Landing-Page--Community-?node-id=0-1&p=f&t=ts7za7zvlDzQTgK2-0)**
 
 📌 The **page assigned to you is mentioned at the top of the Figma design** — please check and confirm before starting.
 
 ---
 
-## 🛠 What To Do
+## What To Do
 
 - Use **React** and **Tailwind CSS** to replicate the assigned page
 - Maintain **component-based structure** (please)
@@ -57,7 +56,7 @@ Make sure your repo has:
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **React.js**
 - **Tailwind CSS v3.4.17**  
