@@ -8,7 +8,7 @@ Time to put those Tailwind skills to the test! This week’s assignment is all a
 
 Build the UI of an **e-commerce platform** using **React.js** and **Tailwind CSS**.
 
-You’ll be assigned a **specific page** from the design system and expected to recreate it using components, layouts, and Tailwind’s utility classes.
+You have been assigned a **specific page** from the design system and expected to recreate it using components, layouts, and Tailwind’s utility classes.
 
 ---
 
@@ -24,14 +24,14 @@ You’ll be assigned a **specific page** from the design system and expected to 
 ## 🛠 What To Do
 
 - Use **React** and **Tailwind CSS** to replicate the assigned page
-- Maintain **component-based structure**
+- Maintain **component-based structure** (please)
 - Layouts should be **responsive**
 - Match colors, fonts, spacing, and hierarchy as close as possible
 - Don’t worry if it’s not **pixel-perfect** — just try your best
 
 ---
 
-## 💎 Bonus Points (Optional But Encouraged)
+## 💎 A few extra if you are enthusiatic (optional)
 
 - Add **basic working features** like:
   - Card swipe animations
@@ -72,18 +72,6 @@ Make sure your repo has:
 - Follow **mobile-first** design approach.
 - Tailwind utility classes are your friends — try to avoid custom CSS unless absolutely necessary.
 - Ask doubts in the group if stuck — share a screenshot and describe what’s wrong.
-
----
-
-## ✅ Evaluation Criteria
-
-| Area | Weight |
-|------|--------|
-| UI Accuracy (based on Figma) | 40% |
-| Code Quality (folder structure, component usage) | 25% |
-| Responsiveness | 15% |
-| Bonus Features (animations, interactivity) | 10% |
-| Submission (on time, working repo, no errors) | 10% |
 
 ---
 
