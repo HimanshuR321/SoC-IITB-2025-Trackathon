@@ -42,29 +42,26 @@ _A well-designed utility for developers who'd rather code than keep a dozen tabs
 
 ### Week 4 – Introduction to React  
 - Set up a React project using Vite  
-- Create a Dice game using reusable components and props  
+- Create a Dice game using reusable components and props
 
-### Week 5 – Introduction to Backend Development  
+### Week 5 – Continuing React and Tailwind CSS  
+- Using React Vite and Tailwind CSS for styling
+- Creating Razorpay clone (only frontend)
+
+### Week 6 – Introduction to Backend Development  
 - Build a basic Express server that returns a simple message  
 - Connect the backend to MongoDB using Mongoose  
 
-### Week 6 – User Authentication & UI Enhancements  
+### Week 7 – User Authentication & UI Enhancements  
 - Implement user login and signup features using MongoDB  
 - Style the frontend with Tailwind CSS  
 - Introduce simple animations to improve UX like an Instagram filter  
 
-### Week 7 – Project Integration  
+### Week 8 – Project Integration  
 - Integrate APIs from Codeforces, CodeChef, and LeetCode  
 - Display contest data on the frontend  
 - Add contest bookmarking functionality  
 - Perform testing and debugging  
-
-### Week 8 (Optional but Recommended) – Final Touches  
-- Add responsive design for mobile support  
-- Implement dark mode  
-- Auto-fetch YouTube solution links based on contest problems  
-- Deploy the full-stack application and prepare for demo day and flex around your friends  
-
 
 ---
 
