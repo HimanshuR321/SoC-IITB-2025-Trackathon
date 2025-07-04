@@ -17,19 +17,6 @@ This week's learning is focused on just **one epic video** — **no distractions
 
 ---
 
-## 📘 What You'll Learn
-
-By the end of this week, you’ll be able to:
-
-- Understand what Tailwind CSS is and how it's different from traditional CSS
-- Configure and integrate Tailwind into a React app
-- Use utility classes to build fully responsive layouts
-- Customize design with Tailwind’s configuration (`tailwind.config.js`)
-- Combine Tailwind + React effectively for scalable UI development
-- Build a real-world project using both tools together
-
----
-
 ## 🧠 Learning Plan
 
 1. **Watch the 10hr Course**  
@@ -72,7 +59,7 @@ Tailwind not applying? React error in rendering?
 ## ✅ Pro Tips
 
 - Use [Tailwind Docs]((https://v3.tailwindcss.com/) — everything is searchable and example-rich
-- Don’t mix Tailwind and custom CSS unless absolutely needed
+- Don’t mix Tailwind and custom CSS unless needed in do or die case
 - Mobile-first, responsive design is super easy — practice it
 
 ---
