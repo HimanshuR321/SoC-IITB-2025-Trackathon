@@ -12,7 +12,8 @@ By now, you've explored **React.js** and built interactive components. This week
 
 This week's learning is focused on just **one epic video** — **no distractions**.
 
-🎥 [Watch This Tailwind CSS + React Full Course (10 hours)](https://youtu.be/6a8CNTk9yo4?si=V5cQvBqdkfwYd5k8)  
+[![Tailwind CSS + React Full Course](https://img.youtube.com/vi/6a8CNTk9yo4/hqdefault.jpg)](https://youtu.be/6a8CNTk9yo4?si=V5cQvBqdkfwYd5k8)  
+🎥 **Watch This Tailwind CSS + React Full Course (10 hours)**  
 📌 _Make sure to watch it completely to grasp all concepts from basics to real-world usage._
 
 ---
@@ -55,9 +56,10 @@ Tailwind not applying? React error in rendering?
 
 ## ✅ Pro Tips
 
-- Use [Tailwind Docs](https://v3.tailwindcss.com/) — everything is searchable and example-rich
-- Don’t mix Tailwind and custom CSS unless needed in do or die case
-- Mobile-first, responsive design is super easy — practice it
+- Use [Tailwind Docs](https://v3.tailwindcss.com/) — everything is searchable and example-rich.  
+  ❗ _Please stick to version `3.4.17` — avoid version 4.1+ for now to avoid unexpected bugs._
+- Don’t mix Tailwind and custom CSS unless needed in a do-or-die case.
+- Mobile-first, responsive design is super easy — practice it.
 
 ---
 
@@ -68,4 +70,3 @@ With **React + Tailwind**, you're now coding like the pros — building fast, cl
 Stay consistent, break down the video into small goals, and ask for help when stuck.
 
 Let’s build something Swiggy-licious! 🍔🛵
-
