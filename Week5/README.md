@@ -44,16 +44,6 @@ We’ll recreate the **Swiggy UI** using **React + Tailwind CSS**.
 
 ---
 
-## 💬 Need Help?
-
-Tailwind not applying? React error in rendering?
-
-- Drop a message in the group
-- Share screenshots + code snippet
-- Ask clear, specific questions
-
----
-
 ## ✅ Pro Tips
 
 - Use [Tailwind Docs](https://v3.tailwindcss.com/) — everything is searchable and example-rich.  
