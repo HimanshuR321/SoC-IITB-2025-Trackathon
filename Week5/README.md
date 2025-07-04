@@ -27,13 +27,13 @@ This week's learning is focused on just **one epic video** — **no distractions
    Test utilities like `flex`, `grid`, `bg`, `text`, `rounded`, `hover`, `transition`, and more in a sample React app.
 
 3. **Check `/Assignment` Folder**  
-   This week’s assignment will help you apply your Tailwind CSS knowledge in a **Swiggy Clone**.
+   This week’s assignment will help you apply your Tailwind CSS knowledge for an e-commerce website.
 
 ---
 
-## Assignment – Swiggy Clone
+## Assignment – E-Commerce Platform
 
-We’ll recreate the **Swiggy UI** using **React + Tailwind CSS**.
+We’ll create an e-commerce platform UI using **React + Tailwind CSS**.
 
 📁 Refer to the `/Assignment` folder for: Mock UI reference
 
@@ -58,5 +58,3 @@ We’ll recreate the **Swiggy UI** using **React + Tailwind CSS**.
 With **React + Tailwind**, you're now coding like the pros — building fast, clean, responsive UIs.
 
 Stay consistent, break down the video into small goals, and ask for help when stuck.
-
-Let’s build something Swiggy-licious! 🍔🛵
