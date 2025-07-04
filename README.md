@@ -46,7 +46,7 @@ _A well-designed utility for developers who'd rather code than keep a dozen tabs
 
 ### Week 5 – Continuing React and Tailwind CSS  
 - Using React Vite and Tailwind CSS for styling
-- Creating Swiggy clone for practice (only frontend)
+- Creating an e-commerce website for practice (only frontend)
 
 ### Week 6 – Introduction to Backend Development  
 - Build a basic Express server that returns a simple message  
