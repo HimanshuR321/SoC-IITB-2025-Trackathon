@@ -18,7 +18,7 @@ This week's learning is focused on just **one epic video** — **no distractions
 
 ---
 
-## 🧠 Learning Plan
+## Learning Plan
 
 1. **Watch the 10hr Course**  
    Don’t be intimidated by the length — it’s well structured. Break it down across days.
@@ -31,20 +31,20 @@ This week's learning is focused on just **one epic video** — **no distractions
 
 ---
 
-## 🧪 Assignment – Swiggy Clone
+## Assignment – Swiggy Clone
 
 We’ll recreate the **Swiggy UI** using **React + Tailwind CSS**.
 
 📁 Refer to the `/Assignment` folder for: Mock UI reference
 
-📝 **Submit your assignment here:**  
+**Submit your assignment here:**  
 🔗 [Submission Form](https://forms.gle/u9iYJb9P7ryu3NjJ9)
 
-📅 **Deadline: 10th July, 11:59 PM IST**
+**Deadline: 10th July, 11:59 PM IST**
 
 ---
 
-## ✅ Pro Tips
+## Pro Tips
 
 - Use [Tailwind Docs](https://v3.tailwindcss.com/) — everything is searchable and example-rich.  
   ❗ _Please stick to version `3.4.17` — don't use version 4.1+ for now to avoid unexpected bugs._
