@@ -24,7 +24,6 @@ Use this Figma design as your reference:  **[E-Commerce UI Figma](https://www.fi
 
 - Use **React** and **Tailwind CSS** to replicate the assigned page
 - Maintain **component-based structure** (please)
-- Layouts should be **responsive**
 - Match colors, fonts, spacing, and hierarchy as close as possible
 - Don’t worry if it’s not **pixel-perfect** — just try your best
 
@@ -68,7 +67,6 @@ Make sure your repo has:
 
 - Tailwind works best when used **directly in JSX** — don’t overcomplicate.
 - If something isn’t aligning — inspect it with your browser dev tools.
-- Follow **mobile-first** design approach.
 - Tailwind utility classes are your friends — try to avoid custom CSS unless absolutely necessary.
 - Ask doubts in the group if stuck — share a screenshot and describe what’s wrong.
 
