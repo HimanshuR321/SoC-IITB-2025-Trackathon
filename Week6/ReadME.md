@@ -1,4 +1,4 @@
-# Week 6 – Intro to Backend Development: Power Up Your Full-Stack Skills ⚙️
+# Week 6 – Intro to Backend Development⚙️
 
 Welcome to **Week 6** of the Trackathon!
 
