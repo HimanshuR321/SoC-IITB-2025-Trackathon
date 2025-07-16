@@ -12,7 +12,7 @@ This week, we’re focused on understanding the fundamentals of backend developm
 2. [Express.js Crash Course – Bro Code](https://youtu.be/c2M-rlkkT5o?si=miy1_7ZNjg-bMARx)  
 3. [MongoDB Explained – Web Dev Simplified](https://youtu.be/DZBGEVgL2eE?si=Zvrxjx65BeCZYGKa)  
 4. [Mongoose Crash Course – Web Dev Simplified](https://youtu.be/SccSCuHhOw0?si=PgEdvziDqeOOlK0v)  
-5. [Build a REST API with Node, Express & MongoDB – Dev Ed](https://youtu.be/lY6icfhap2o?si=AETPMPMPWlfiKECy)
+5. [Build a REST API with Node, Express & MongoDB – Web Dev Simplified](https://youtu.be/lY6icfhap2o?si=AETPMPMPWlfiKECy)
 
 ---
 
