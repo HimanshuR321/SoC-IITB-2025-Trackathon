@@ -6,9 +6,9 @@ This week, we’re focused on understanding the fundamentals of backend developm
 
 ---
 
-## ▶️ Watch These in Order
+## ▶️ Watch These in Order (Also create handwritten notes with them, it will really be helpful in future)
 
-### 1. Node.js Crash Course – Sheryians Coding School  
+### 1. Backend Development Crash Course – Sheryians Coding School (Skip the frontend part discussion completely)
 [![Node.js Crash Course](https://img.youtube.com/vi/Q-icS7yZz5k/hqdefault.jpg)](https://youtu.be/Q-icS7yZz5k?si=0VZr3l4SxM9kWfOA)
 
 ---
