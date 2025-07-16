@@ -1,15 +1,15 @@
-# Week 6 – Intro to Backend Development⚙️
+# Week 6 – Intro to Backend Development ⚙️
 
 Welcome to **Week 6** of the Trackathon!
 
 This week, we shift gears to explore the **backend** side of web development — the part that handles **data, logic, and connections behind the scenes**. While the frontend (React + Tailwind) makes things look great, it's the backend that gives your app real functionality — user accounts, databases, APIs, and more.
 
-We’ll dive into the foundational tools of modern backend development:
+We’ll dive into the foundational tools of modern backend development:  
 **Node.js**, **Express**, **MongoDB**, and **Mongoose** — the building blocks of many real-world full-stack applications.
 
 ---
 
-## Learning Playlist
+## ▶️ Learning Playlist
 
 There’s **no assignment this week** — just focus on watching and absorbing the core concepts through this curated video playlist.
 
@@ -45,12 +45,18 @@ This is a major step toward becoming a **complete full-stack developer**.
 
 ---
 
-## Final Note
+## 🧠 Final Note
 
 This week is about **depth over speed** — take your time, explore each concept, and experiment locally.
+
+Don’t forget to read the **official documentation** too:
+- [Node.js Docs](https://nodejs.org/en/docs)
+- [Express.js Docs](https://expressjs.com/)
+- [MongoDB Docs](https://www.mongodb.com/docs/)
+- [Mongoose Docs](https://mongoosejs.com/docs/)
 
 You’ve already built beautiful UIs — now it’s time to make them dynamic and powerful with your own backend.
 
 No assignment this time — just pure learning 💻
 
-Stay consistent, and see you in Week 7!
+Stay consistent, and see you in **Week 7**!
