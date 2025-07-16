@@ -13,7 +13,7 @@ We’ll dive into the foundational tools of modern backend development:
 
 There’s **no assignment this week**. Instead, you’ll focus entirely on building strong fundamentals in backend development.
 
-📁 Refer to the [`/content`](./content) folder for the **learning materials** and curated resources for this week.
+📁 Refer to the `/content` folder for the **learning materials** and curated resources for this week.
 
 ---
 
