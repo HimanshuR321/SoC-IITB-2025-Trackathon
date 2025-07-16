@@ -1,4 +1,4 @@
-# Week 6 – Intro to Backend Development: Power Up Your Full-Stack Skills ⚙️🔥
+# Week 6 – Intro to Backend Development: Power Up Your Full-Stack Skills ⚙️
 
 Welcome to **Week 6** of the Trackathon!
 
@@ -9,7 +9,7 @@ We’ll dive into the foundational tools of modern backend development:
 
 ---
 
-## ▶️ Learning Playlist
+## Learning Playlist
 
 There’s **no assignment this week** — just focus on watching and absorbing the core concepts through this curated video playlist.
 
